@@ -1,2 +1,2 @@
 # mlkit-app
-aplicacion para pruebas de api ML-kit
+Aplicación para pruebas de api de ML Kit
